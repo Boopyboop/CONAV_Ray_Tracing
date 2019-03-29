@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\vec3.h(107): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\vec3.h(265): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\hitable_list.h(31): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\camera.h(29): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\material.h(30): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\material.h(105): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(17): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(29): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(30): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(30): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(48): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(49): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(50): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(51): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(53): warning C4305: 'argument' : troncation de 'double' à 'float'
+c:\users\hp\source\repos\conav ray tracing\conav ray tracing\main.cpp(62): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Conav Ray Tracing.vcxproj -> C:\Users\HP\source\repos\Conav Ray Tracing\Debug\Conav Ray Tracing.exe
